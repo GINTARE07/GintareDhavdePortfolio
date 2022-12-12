@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/GINTARE07/GintareDhavdePortfolio.git/static/css/main.7640398d.css",
-    "main.js": "/GINTARE07/GintareDhavdePortfolio.git/static/js/main.976824f3.js",
+    "main.js": "/GINTARE07/GintareDhavdePortfolio.git/static/js/main.cbc3bd6f.js",
     "static/js/787.1ed0c42c.chunk.js": "/GINTARE07/GintareDhavdePortfolio.git/static/js/787.1ed0c42c.chunk.js",
     "index.html": "/GINTARE07/GintareDhavdePortfolio.git/index.html",
     "main.7640398d.css.map": "/GINTARE07/GintareDhavdePortfolio.git/static/css/main.7640398d.css.map",
-    "main.976824f3.js.map": "/GINTARE07/GintareDhavdePortfolio.git/static/js/main.976824f3.js.map",
+    "main.cbc3bd6f.js.map": "/GINTARE07/GintareDhavdePortfolio.git/static/js/main.cbc3bd6f.js.map",
     "787.1ed0c42c.chunk.js.map": "/GINTARE07/GintareDhavdePortfolio.git/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7640398d.css",
-    "static/js/main.976824f3.js"
+    "static/js/main.cbc3bd6f.js"
   ]
 }
